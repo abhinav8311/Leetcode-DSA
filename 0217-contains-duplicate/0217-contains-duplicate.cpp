@@ -5,10 +5,10 @@ public:
 
         for(int i=0; i<=nums.size()-1;i++){
             if(seen.find(nums[i]) != seen.end()){
-                return true;
+                return true;//if the element, already in set, return true
             }
-            seen.insert(nums[i]);
+            seen.insert(nums[i]);//else insert in set
         }
-        return false;
+        return false;//return false if not found
     }
 };
