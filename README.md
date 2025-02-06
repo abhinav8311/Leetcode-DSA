@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
