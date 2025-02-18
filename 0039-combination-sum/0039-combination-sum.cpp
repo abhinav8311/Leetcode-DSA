@@ -31,7 +31,7 @@ public:
 };
 
 /* 
-\U0001f4a1 Important Notes:
+ Important Notes:
 - **Backtracking** is used to explore all possible combinations.
 - **Duplicates are avoided** by always moving to the next index in the second recursive call.
 - **Same number can be used multiple times** (first recursive call keeps `i` unchanged).
