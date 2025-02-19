@@ -10,12 +10,10 @@ public:
     }
 
     void backtrack(int n,int k,int i,vector<int> &cur){
-        if(cur.size()==k){
-            res.push_back(cur);
-            return;
-        }
-
         if(i>n){
+            if(cur.size()==k){
+                res.push_back(cur);
+            }
             return;
         }
 
