@@ -10,7 +10,7 @@ public:
         return result;
     }
 
-    void dfs(vector<int> &nums, int i, vector<int> &subset){
+    void dfs(vector<int> nums, int i, vector<int> &subset){
         if(i>=nums.size()){
             result.push_back(subset);//if i reaches final subset, store it and return
             return;
