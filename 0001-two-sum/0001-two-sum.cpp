@@ -9,7 +9,7 @@ public:
                 return {map[diff],i};
             }
 
-            map[nums[i]]=i;//else enter that value and position in the map
+            map.insert({nums[i],i});//else enter that value and position in the map
         }
         return {};
     }
