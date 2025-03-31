@@ -35,7 +35,6 @@ public:
                     while (l < r && nums[l] == nums[l - 1]) {
                         l++;
                     }
-
                 }
             }
         }
