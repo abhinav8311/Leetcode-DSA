@@ -1,9 +1,9 @@
 class Solution {
 public:
-    vector<vector<int>> result;
+    vector<vector<int>> result;//stores all subsets
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int> subset;
+        vector<int> subset;//stores current subset
 
         backtrack(nums, 0 , subset);
 
@@ -17,10 +17,10 @@ public:
             return;
         }
 
-        subset.push_back(nums[i]);
+        subset.push_back(nums[i]);//include
         backtrack(nums,i+1,subset);
 
-        subset.pop_back();
+        subset.pop_back();//exclude
         backtrack(nums,i+1,subset);
     }
 };
