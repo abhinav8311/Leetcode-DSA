@@ -28,7 +28,7 @@ public:
 
         q.push({r,c});
         grid[r][c]=0;
-        int res=1;
+        int area=1;
 
         while(!q.empty()){
             r=q.front().first;
@@ -43,10 +43,10 @@ public:
                 if(newRow>=0 && newCol>=0 && newRow<grid.size() && newCol<grid[0].size() && grid[newRow][newCol]==1){
                     q.push({newRow,newCol});
                     grid[newRow][newCol]=0;
-                    res++;
+                    ++area;
                 }
             }
         }
-        return res;
+        return area;
     }
 };
