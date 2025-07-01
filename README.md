@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -69,16 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
