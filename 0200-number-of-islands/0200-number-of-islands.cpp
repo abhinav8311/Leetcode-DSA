@@ -7,6 +7,8 @@ public:
         int R=grid.size();
         int C=grid[0].size();
 
+        if(R<=0 || C<=0) return 0;
+
         int count=0;
 
         for(int r=0; r<R; r++){
