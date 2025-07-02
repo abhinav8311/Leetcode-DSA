@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 ## Matrix
