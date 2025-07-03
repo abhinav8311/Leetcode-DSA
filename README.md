@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1036-rotting-oranges) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,4 +95,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1036-rotting-oranges) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
