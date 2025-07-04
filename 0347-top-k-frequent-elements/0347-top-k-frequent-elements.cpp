@@ -4,8 +4,8 @@ public:
         unordered_map <int,int> freq;
         vector <int> result;
 
-        for(int i=0;i<nums.size();i++){
-            freq[nums[i]]++;
+        for(auto num:nums){
+            freq[num]++;
         }
 
         int n=nums.size();
