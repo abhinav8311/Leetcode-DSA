@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0133-clone-graph) |
+## Stack
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
