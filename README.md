@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0133-clone-graph) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
