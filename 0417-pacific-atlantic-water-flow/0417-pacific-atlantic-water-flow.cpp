@@ -47,7 +47,7 @@ public:
                     int nc = c + direction[i][1];
 
                     if(nr>=0 && nc>=0 && nr<heights.size() && nc<heights[0].size() && heights[nr][nc]>=heights[r][c] && vis[nr][nc]==false){
-                        vis[nr][nc]==true;
+                        vis[nr][nc]=true;
                         q.push({nr,nc});
                     }
                 }
