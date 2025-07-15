@@ -12,7 +12,6 @@ public:
         }else{
             st.push({val, min(val, st.top().second)});
         }
-        
     }
     
     void pop() {
