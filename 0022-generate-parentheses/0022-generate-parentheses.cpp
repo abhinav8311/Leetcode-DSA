@@ -1,23 +1,22 @@
-//1.open(== close)==n
-//2.close can never be > open 
-
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
-        vector<string> result;
-        generateParenthesisHelper(n,0,0,"",result);
-        return result;
+        vector <string> res;
+        backtrack(0,0,"",res,n);
+
+        return res;
     }
-    void generateParenthesisHelper(int n, int openN , int closeN , string str ,vector<string>& res){//backtracking used
-        if(openN==n && closeN==n){//if open and close parenthesis limit reached
-            res.push_back(str);//push the final string in result and return
+private:
+    void backtrack(int openN, int closeN, string st ,vector <string> &res, int n){
+        if(openN == n && closeN == n){
+            res.push_back(st);
             return;
         }
-        if(openN<n){
-            generateParenthesisHelper(n,openN+1,closeN,str+'(',res);
+        if(openN < n){
+            backtrack(openN+1,closeN,st+'(',res,n);
         }
-        if(closeN<openN){
-            generateParenthesisHelper(n,openN,closeN+1,str+')',res);
+        if(closeN < openN){
+            backtrack(openN,closeN+1,st+')',res,n);
         }
     }
 };
