@@ -12,7 +12,7 @@ public:
 
             int mid=(L+R)/2;
 
-            if(nums[mid] <= nums[R]){
+            if(nums[mid] < nums[R]){
                 R=mid;
             }
             else{
