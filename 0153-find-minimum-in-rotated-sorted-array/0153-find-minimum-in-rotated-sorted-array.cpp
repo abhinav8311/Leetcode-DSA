@@ -4,18 +4,19 @@ public:
         int L=0;
         int R=nums.size()-1;
 
+        if(nums[L]<nums[R]){
+            return nums[L];
+        }
+
         while(L<R){
-            if(nums[L]<nums[R]){
-                return nums[L];
-            }
 
             int mid=(L+R)/2;
 
-            if(nums[L]<=nums[mid]){
-                L=mid+1;
-            }
-            else {
+            if(nums[mid] <= nums[R]){
                 R=mid;
+            }
+            else{
+                L=mid+1;
             }
         }
         return nums[L];
