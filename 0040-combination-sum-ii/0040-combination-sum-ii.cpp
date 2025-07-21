@@ -23,12 +23,12 @@ public:
         cur.push_back(candidates[i]);
         backtrack(candidates, target - candidates[i], cur, i+1);
 
-        // Backtrack: Remove the last added number and try the next number
-        cur.pop_back();
-
         while(i+1 < candidates.size() && candidates[i]==candidates[i+1]){
             i++;
         }
+        // Backtrack: Remove the last added number and try the next number
+        cur.pop_back();
+
         backtrack(candidates, target, cur, i + 1);
     }
 };
