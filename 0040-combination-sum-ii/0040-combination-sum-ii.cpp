@@ -28,7 +28,6 @@ public:
         }
         // Backtrack: Remove the last added number and try the next number
         cur.pop_back();
-
         backtrack(candidates, target, cur, i + 1);
     }
 };
