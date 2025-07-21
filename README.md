@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Monotonic Stack
 |  |
 | ------- |
