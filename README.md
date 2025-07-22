@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1127-last-stone-weight) |
 | [3226-minimum-number-game](https://github.com/abhinav8311/Leetcode-DSA/tree/master/3226-minimum-number-game) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/abhinav8311/Leetcode-DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [2752-sum-multiples](https://github.com/abhinav8311/Leetcode-DSA/tree/master/2752-sum-multiples) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/abhinav8311/Leetcode-DSA/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
