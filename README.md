@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1127-last-stone-weight) |
+| [3226-minimum-number-game](https://github.com/abhinav8311/Leetcode-DSA/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1014-k-closest-points-to-origin) |
+| [3226-minimum-number-game](https://github.com/abhinav8311/Leetcode-DSA/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1127-last-stone-weight) |
+| [3226-minimum-number-game](https://github.com/abhinav8311/Leetcode-DSA/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/abhinav8311/Leetcode-DSA/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
