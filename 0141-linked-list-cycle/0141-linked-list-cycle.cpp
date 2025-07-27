@@ -9,13 +9,14 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode* slow=head;
-        ListNode* fast=head;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
         while(fast && fast->next){
-            slow=slow->next;
-            fast=fast->next->next;
-            if(slow==fast){//if there is a cycle, the fast ptr will catch up to the slow ptr
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if(slow == fast){
                 return true;
             }
         }
