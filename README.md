@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1023-time-based-key-value-store) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 ## Depth-First Search
 |  |
