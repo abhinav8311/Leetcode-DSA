@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0242-valid-anagram) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
