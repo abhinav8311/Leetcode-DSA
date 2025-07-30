@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1023-time-based-key-value-store) |
+| [1894-merge-strings-alternately](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
+| [1894-merge-strings-alternately](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1894-merge-strings-alternately) |
 ## Depth-First Search
 |  |
 | ------- |
