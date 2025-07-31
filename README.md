@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0338-counting-bits) |
