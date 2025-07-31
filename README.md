@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
