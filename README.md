@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
