@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1250-longest-common-subsequence) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1250-longest-common-subsequence) |
