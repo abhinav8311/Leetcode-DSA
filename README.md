@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1250-longest-common-subsequence) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhinav8311/Leetcode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1250-longest-common-subsequence) |
