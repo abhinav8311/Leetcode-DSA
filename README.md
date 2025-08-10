@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0130-surrounded-regions) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0139-word-break) |
