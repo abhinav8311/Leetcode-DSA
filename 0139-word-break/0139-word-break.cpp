@@ -8,7 +8,8 @@ public:
 
         for(int i = 1;i<=n;i++){
             for(auto word : wordDict){
-                if(i >= word.length() && dp[i-word.length()] && s.substr(i-word.length(),word.length())==word){
+                int w = word.length();
+                if(i >= w && dp[i-w] && s.substr(i-w,w)==word){
                     dp[i]=true;
                     break;
                 }
