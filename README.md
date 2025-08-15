@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0200-number-of-islands) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0133-clone-graph) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
