@@ -12,11 +12,12 @@
 class Solution {
 public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(subRoot == NULL){
-            return true;
-        }
         if(root == NULL){
             return false;
+        }
+        
+        if(subRoot == NULL){
+            return true;
         }
 
         if(isSameTree(root , subRoot)){
