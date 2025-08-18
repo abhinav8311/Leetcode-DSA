@@ -12,28 +12,34 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> result;//stores each levels as vectors, therefore vector of vectors
-        
-        if(root==NULL){
-            return result;//if no root, resturn result
+        vector<vector<int>> result;
+
+        if(root == NULL){
+            return result;
         }
 
-        queue<TreeNode*>q;//queue to store nodes at 1st
-        q.push(root);
-        while(!q.empty()){//till queue is not empty
-            int n=q.size();//stores size of the queue currently, so that the inner loop traverses through each node of that level
-            vector<int>level;//to store that particular level nodes
+        queue<TreeNode*> q;
 
-            for(int i=0;i<n;i++){//iterate till all nodes are traversed in that level
-                TreeNode* node=q.front();//store the node to perform operation but pop it later
+        q.push(root);
+
+        while(!q.empty()){
+            int size = q.size();
+            vector<int> level;
+
+            for(int i = 0;i<size;i++){
+                TreeNode* node = q.front();
                 q.pop();
 
-                if(node->left) q.push(node->left);//if left of it present, push in queue
-                if(node->right) q.push(node->right);//if right of it present, push in queue
+                if(node->left){
+                    q.push(node->left);
+                }
+                if(node->right){
+                    q.push(node->right);
+                }
 
-                level.push_back(node->val);//finally push the stored node in level
+                level.push_back(node->val);
             }
-            result.push_back(level);//push that level in result
+            result.push_back(level);
         }
         return result;
     }
