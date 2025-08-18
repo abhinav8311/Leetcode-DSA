@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0268-missing-number) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0097-interleaving-string) |
@@ -436,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
