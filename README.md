@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0695-max-area-of-island](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0747-min-cost-climbing-stairs) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [1023-time-based-key-value-store](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0883-car-fleet) |
 ## Design
