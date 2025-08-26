@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0229-majority-element-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/abhinav8311/Leetcode-DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -465,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/abhinav8311/Leetcode-DSA/tree/master/1908-recyclable-and-low-fat-products) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhinav8311/Leetcode-DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
