@@ -13,7 +13,7 @@ public:
                 }
                 longest = max (longest,length);
             }
-            
+
         }
         return longest;
     }
